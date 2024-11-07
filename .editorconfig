@@ -1,0 +1,16 @@
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+# оставляем пустую строчку в конце кода
+insert_final_newline = true
+# обрезка пробелов с правой и левой строны
+trim_trailing_whitespace = true
+
+# кодировка
+charset = utf-8
+
+indent_style = space
+indent_size = 2
+
